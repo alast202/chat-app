@@ -8,4 +8,10 @@ must use the same room name to join.</p>
 
 <p>Socket.io works with events. So you commit an event and detect(listen) for the event to happen. 
 I used the connection event to see if someone has connected to the socket.io server, which is (io.on).
-Then have an action as a callback function- for mine i did (console.log(socket.id);)</p>
+Then have an action as a callback function- for mine i did  console.log(socket.id); </p>
+
+
+
+
+https://user-images.githubusercontent.com/81660066/221645169-ba330b18-4690-43ae-b1b4-c1f4a5a4c7c2.mp4
+
